@@ -4,63 +4,56 @@ title: Ismael Rosero's CV
 ---
 
 # Ismael Rosero  
-Finance + Data Analytics | Brigham Young University - Idaho  
-
-<div id="webaddress">
-<a href="mailto:isma.rosero1@gmail.com">isma.rosero1@gmail.com</a> | 
-<a href="https://www.linkedin.com/in/ismael-rosero-6260aa240">LinkedIn Profile</a>
-</div>
-
----
-
-## Currently
-
-Finance & Business Analytics student at BYU-Idaho, passionate about data visualization, modeling, and business strategy.
-
-### Specialized In
-
-Data wrangling, dashboard creation (Power BI, Tableau), financial modeling, SQL & Python scripting.
+(208) 973-1293 | [isma.rosero1@gmail.com](mailto:isma.rosero1@gmail.com) | [linkedin.com/in/ismael-rosero-6260aa240](https://www.linkedin.com/in/ismael-rosero-6260aa240)
 
 ---
 
 ## Education
 
-`2022 – Present`  
+`January 2022 – Present`  
 **Brigham Young University – Idaho**, Rexburg, ID  
 *Bachelor of Science in Business Finance*  
 - Minor: Business Analytics  
-- **Expected Graduation:** Fall 2025  
-- Relevant Coursework: Investments, Financial Management, Managerial Accounting, Business Analytics, SQL, Statistics
+- **Expected Graduation:** Winter 2026  
+- Relevant Coursework: Advanced Financial Management, Investments, Business Analytics, Financial Modeling, Data Science Programming, SQL, Statistics
 
 ---
 
 ## Skills
 
-**Data Tools:** Power BI, Tableau, Excel (XLOOKUP, PivotTables)  
-**Programming:** SQL, R, Python, VBA  
-**Languages:** Spanish (Native), English, French (Basic)
+**Data Tools & Analysis:** Power BI (DAX, KPI tracking, dashboards), Tableau (visualizations), Excel (XLOOKUP, PivotTables, charts, financial modeling)  
+**Programming & Automation:** Python (pandas, NumPy, matplotlib), R (ggplot2, dplyr), SQL (joins, subqueries), VBA (automation)  
+**Statistical & Analytical:** Regression analysis, hypothesis testing, data wrangling, forecasting, API integration  
+**Languages:** Spanish (Native), English (Fluent)
 
 ---
 
 ## Experience
 
 `2023 – Present`  
-**Shipping Scheduler**, Done Right Installation Group – Salt Lake City, UT  
-- Maintained accurate inventory with 100% cross-checks  
-- Improved Excel reporting and team communication  
-- Scheduled technicians for efficient installations  
+**Shipping Scheduler**, Done Right Installation Group LLC – Salt Lake City, Utah  
+- Maintained accurate inventory and project data by cross-referencing work documents, achieving 100% data reliability  
+- Updated and maintained reporting spreadsheets in Excel/Google Sheets, improving clarity and accessibility for the team  
+- Coordinated technician schedules, optimizing routes and reducing delays  
+- Managed customer communications via email/phone, ensuring accurate scope of work and improved client satisfaction
 
 `2021 – 2022`  
-**Ad Administrator**, Web Net Soluciones – Cuenca, Ecuador  
-- Managed client websites and payments  
-- Designed promotional banners  
-- Tracked service payments and invoices
+**Ad Administration**, Web Net Soluciones – Cuenca, Ecuador  
+- Ensured accurate and timely payment for services provided by maintaining detailed records and following up on outstanding invoices  
+- Administered customer web pages and managed payment processing, ensuring smooth and efficient operations  
+- Created effective publicity banners for customers, improving online presence and engagement
 
 ---
 
 ## Volunteer Experience
 
-`2020 – 2021`  
+`2018 – 2019`  
 **Part-Time Volunteer**, Orphanage Support Services Organization – Cuenca, Ecuador  
-- Analyzed weekly budgets and expenses  
-- Coordinated volunteer activities for efficiency
+- Monitored and analyzed weekly expenditures for multiple orphanages, ensuring accurate budget tracking and identifying areas for cost savings  
+- Organized schedules and coordinated activities for volunteers, improving operational efficiency  
+
+`2019 – 2021`  
+**Full-Time Volunteer**, The Church of Jesus Christ of Latter-day Saints – Kampala, Uganda  
+- Supervised and trained 220 volunteers across multiple regions, coordinating schedules and reporting systems  
+- Conducted leadership training meetings and workshops, strengthening organizational effectiveness  
+- Adapted to a new cultural environment, developing communication and problem-solving skills
