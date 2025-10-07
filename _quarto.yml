@@ -34,6 +34,8 @@ website:
             href: files/Crypto_Model_Ismael_Rosero.xlsm
           - text: "Bond Pricing & Yield Curve (Excel VBA, download)"
             href: files/Bond_Model_Ismael_Rosero.xlsm
+          - text: "Sleep & Exercise vs Performance (R)"
+            file: projects/sleep_exercise.qmd
 
 format:
   html:
