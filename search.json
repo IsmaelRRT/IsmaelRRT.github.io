@@ -140,95 +140,25 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "projects/youtube.html",
-    "href": "projects/youtube.html",
-    "title": "YouTube Trending Analysis (Tableau)",
+    "objectID": "projects/bond_model.html",
+    "href": "projects/bond_model.html",
+    "title": "Bond Pricing & Yield Curve (Excel VBA)",
     "section": "",
-    "text": "YouTube Dashboard\n\n\nDashboard analyzing trending YouTube channels — including days trended, max views, and category insights.\nSkills used: Tableau, Exploratory Data Analysis, Visualization\n\n\n\n Back to top"
+    "text": "Overview\nExcel/VBA model that: - prices a portfolio of bonds (clean/dirty price), - builds an interpolated U.S. Treasury curve, - calculates duration, YTM, credit spread, - and exports a clean PDF report.\n\nDashboard\n\n\n\nBond Dashboard\n\n\nSkills & tools: Excel, VBA, fixed-income math, data automation, reporting\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "projects/sleep_exercise.html",
-    "href": "projects/sleep_exercise.html",
-    "title": "Do Sleep and Exercise Help School Performance?",
+    "objectID": "projects/netflix.html",
+    "href": "projects/netflix.html",
+    "title": "Netflix Data Dashboard (Tableau)",
     "section": "",
-    "text": "Sleep Project Overview\n\n\nOverview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\nThe analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.\n\n\nData Overview\n\n\n\nSleep Graph 1\n\n\nThis graph shows how average performance scores vary across different sleep durations.\n\n\n\nResults\n\n\n\nSleep Graph 2\n\n\nStudents who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.\n\n\n\nConclusion\n\n\n\nSleep Conclusion\n\n\nStudents with better sleep habits and regular exercise show improved academic outcomes.\nWhile correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n\n Back to top"
+    "text": "Netflix Dashboard\n\n\nAn interactive Tableau dashboard exploring Netflix titles by country, rating, genre, and year added.\nSkills used: Tableau, Data Cleaning, Dashboard Design, Data Storytelling\n\n\n\n Back to top"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "projects/consulting.html",
+    "href": "projects/consulting.html",
+    "title": "Orphanage Donations Consulting (R)",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Overview\nThis consulting analysis helped a non-profit orphanage better understand donation behavior and improve campaign performance.\nUsing R and ggplot2, the analysis visualized donor trends, identified patterns in donation frequency, and recommended specific strategies to increase recurring donations.\nKey Insights - 60% of donations came from repeat donors. - Education and food campaigns received the highest contributions. - Recommendations helped optimize outreach timing for better engagement.\nSkills used: R, ggplot2, dplyr, Data Storytelling, Consulting Analytics\n📂 Download Report: View HTML Report\n\n\n\n Back to top"
   },
   {
     "objectID": "exploration.html",
@@ -245,25 +175,102 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "projects/consulting.html",
-    "href": "projects/consulting.html",
-    "title": "Orphanage Donations Consulting (R)",
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
     "section": "",
-    "text": "Overview\nThis consulting analysis helped a non-profit orphanage better understand donation behavior and improve campaign performance.\nUsing R and ggplot2, the analysis visualized donor trends, identified patterns in donation frequency, and recommended specific strategies to increase recurring donations.\nKey Insights - 60% of donations came from repeat donors. - Education and food campaigns received the highest contributions. - Recommendations helped optimize outreach timing for better engagement.\nSkills used: R, ggplot2, dplyr, Data Storytelling, Consulting Analytics\n📂 Download Report: View HTML Report\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "projects/netflix.html",
-    "href": "projects/netflix.html",
-    "title": "Netflix Data Dashboard (Tableau)",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Netflix Dashboard\n\n\nAn interactive Tableau dashboard exploring Netflix titles by country, rating, genre, and year added.\nSkills used: Tableau, Data Cleaning, Dashboard Design, Data Storytelling\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "projects/sleep_exercise.html",
+    "href": "projects/sleep_exercise.html",
+    "title": "Do Sleep and Exercise Help School Performance?",
+    "section": "",
+    "text": "Sleep Project Overview\n\n\nOverview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\nThe analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.\n\n\nData Overview\n\n\n\nSleep Graph 1\n\n\nThis graph shows how average performance scores vary across different sleep durations.\n\n\n\nResults\n\n\n\nSleep Graph 2\n\n\nStudents who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.\n\n\n\nConclusion\n\n\n\nSleep Conclusion\n\n\nStudents with better sleep habits and regular exercise show improved academic outcomes.\nWhile correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/youtube.html",
+    "href": "projects/youtube.html",
+    "title": "YouTube Trending Analysis (Tableau)",
+    "section": "",
+    "text": "YouTube Dashboard\n\n\nDashboard analyzing trending YouTube channels — including days trended, max views, and category insights.\nSkills used: Tableau, Exploratory Data Analysis, Visualization\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/crypto_bot.html",
     "href": "projects/crypto_bot.html",
     "title": "Crypto Markets Email Bot (Excel VBA)",
     "section": "",
-    "text": "Crypto Table\n\n\nOverview\nThis Excel VBA automation retrieves live cryptocurrency market data, analyzes returns, and sends email alerts when price thresholds are met.\nIt’s designed to help investors monitor multiple coins in real time — directly from Excel.\nFeatures - Pulls BTC, ETH, DOGE, DOT, and BNB prices. - Calculates performance over multiple time frames (1h, 24h, 7d, etc.). - Sends auto-generated reports via Outlook or Gmail. - Includes dynamic charts for quick visual tracking.\nDashboard Preview\n \nSkills used: Excel VBA, Automation, APIs, Email Integration, Data Visualization\n📂 Download Excel File: Crypto_Model_Ismael_Rosero.xlsm\n\n\n\n Back to top"
+    "text": "Overview\nA fully-automated Excel/VBA tool that: - pulls market data from the web on a schedule, - computes returns & quick summary stats, - refreshes visuals, - and emails a PDF report to stakeholders.\n\nReturns\n\n\n\nCrypto Returns\n\n\n\n\nRanked / Heat-Map Summary\n\n\n\nRanked Summary\n\n\n\n\nSnapshot Table\n\n\n\nSnapshot Table\n\n\nSkills & tools: Excel, VBA (automation, email), data wrangling, charting, report generation\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Machine_Learning/project2.html",
