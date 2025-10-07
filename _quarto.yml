@@ -30,10 +30,10 @@ website:
             file: projects/youtube.qmd
           - text: "Orphanage Donations Consulting (R)"
             href: Consulting.html
-          - text: "Crypto Markets Email Bot (Excel VBA, download)"
-            href: files/Crypto_Model_Ismael_Rosero.xlsm
-          - text: "Bond Pricing & Yield Curve (Excel VBA, download)"
-            href: files/Bond_Model_Ismael_Rosero.xlsm
+          - text: "Crypto Markets Email Bot (Excel VBA)"
+            file: projects/crypto_bot.qmd
+          - text: "Bond Pricing & Yield Curve (Excel VBA)"
+            file: projects/bond_model.qmd
           - text: "Sleep & Exercise vs Performance (R)"
             file: projects/sleep_exercise.qmd
 
