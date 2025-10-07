@@ -147,67 +147,18 @@
     "text": "Netflix Dashboard\n\n\nAn interactive Tableau dashboard exploring Netflix titles by country, rating, genre, and year added.\nSkills used: Tableau, Data Cleaning, Dashboard Design, Data Storytelling\n\n\n\n Back to top"
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
+    "objectID": "ml.html",
+    "href": "ml.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "story_telling.html",
@@ -224,18 +175,74 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "projects/sleep_exercise.html",
+    "href": "projects/sleep_exercise.html",
+    "title": "Do Sleep and Exercise Help School Performance?",
+    "section": "",
+    "text": "Overview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\n\n\n\nSleep Study Screenshot\n\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/youtube.html",
