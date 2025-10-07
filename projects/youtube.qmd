@@ -1,0 +1,10 @@
+---
+title: "YouTube Trending Analysis (Tableau)"
+toc: false
+---
+
+![YouTube Dashboard](../Images/youtube_dashboard.png)
+
+Dashboard analyzing trending YouTube channels — including **days trended**, **max views**, and **category insights**.
+
+**Skills used:** Tableau, Exploratory Data Analysis, Visualization
