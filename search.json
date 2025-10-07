@@ -242,7 +242,7 @@
     "href": "projects/sleep_exercise.html",
     "title": "Do Sleep and Exercise Help School Performance?",
     "section": "",
-    "text": "Overview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\n\n\n\nSleep Study Screenshot\n\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n Back to top"
+    "text": "Sleep Project Overview\n\n\nOverview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\nThe analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.\n\n\nData Overview\n\n\n\nSleep Graph 1\n\n\nThis graph shows how average performance scores vary across different sleep durations.\n\n\n\nResults\n\n\n\nSleep Graph 2\n\n\nStudents who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.\n\n\n\nConclusion\n\n\n\nSleep Conclusion\n\n\nStudents with better sleep habits and regular exercise show improved academic outcomes.\nWhile correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n\n Back to top"
   },
   {
     "objectID": "projects/youtube.html",
