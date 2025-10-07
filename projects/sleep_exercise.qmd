@@ -3,10 +3,35 @@ title: "Do Sleep and Exercise Help School Performance?"
 toc: false
 ---
 
-**Overview:**  
-This R project analyzes whether students who sleep more or exercise regularly perform better academically.
+![Sleep Project Overview](../Images/sleep_intro.png)
 
-![Sleep Study Screenshot](../Images/sleep_cover.png)
+**Overview:**  
+This R project analyzes whether students who **sleep more** or **exercise regularly** perform better academically.  
+The analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.
+
+---
+
+### Data Overview
+![Sleep Graph 1](../Images/sleep_graph1.png)
+
+This graph shows how average performance scores vary across different sleep durations.
+
+---
+
+### Results
+![Sleep Graph 2](../Images/sleep_graph2.png)
+
+Students who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.
+
+---
+
+### Conclusion
+![Sleep Conclusion](../Images/sleep_conclusion.png)
+
+Students with **better sleep habits** and **regular exercise** show improved academic outcomes.  
+While correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.
+
+---
 
 **Tools used:** R, ggplot2, tidyverse, Quarto  
 **Note:** The full interactive version is available on BYU–Idaho’s Shiny server (login required).
