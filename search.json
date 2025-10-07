@@ -270,7 +270,7 @@
     "href": "projects/crypto_bot.html",
     "title": "Crypto Markets Email Bot (Excel VBA)",
     "section": "",
-    "text": "Overview\nA fully-automated Excel/VBA tool that: - pulls market data from the web on a schedule, - computes returns & quick summary stats, - refreshes visuals, - and emails a PDF report to stakeholders.\n\nReturns\n\n\n\nCrypto Returns\n\n\n\n\nRanked / Heat-Map Summary\n\n\n\nRanked Summary\n\n\n\n\nSnapshot Table\n\n\n\nSnapshot Table\n\n\nSkills & tools: Excel, VBA (automation, email), data wrangling, charting, report generation\n\n\n\n\n Back to top"
+    "text": "Overview\nA fully-automated Excel/VBA tool that: - Pulls market data from the web on a schedule\n- Computes returns & quick summary stats\n- Refreshes visuals\n- Emails a PDF report to stakeholders\n\nSnapshot Table\n\n\n\nSnapshot Table\n\n\n\n\nReturns\n\n\n\nCrypto Returns\n\n\n\n\nRanked / Heat-Map Summary\n\n\n\nRanked Summary\n\n\nSkills & Tools: Excel, VBA (automation & email), data wrangling, charting, and report generation\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Machine_Learning/project2.html",
