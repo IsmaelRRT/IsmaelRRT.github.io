@@ -1,0 +1,12 @@
+---
+title: "Do Sleep and Exercise Help School Performance?"
+toc: false
+---
+
+**Overview:**  
+This R project analyzes whether students who sleep more or exercise regularly perform better academically.
+
+![Sleep Study Screenshot](../Images/sleep_cover.png)
+
+**Tools used:** R, ggplot2, tidyverse, Quarto  
+**Note:** The full interactive version is available on BYU–Idaho’s Shiny server (login required).
