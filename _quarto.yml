@@ -1,4 +1,4 @@
-project: 
+project:
   type: website
 
 website:
@@ -6,49 +6,39 @@ website:
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/IsmaelRRT/IsmaelRRT.github.io
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
-  page-footer: 
+  page-footer:
     border: true
     left: "Ismael_Rosero 2024©"
-    right: 
+    right:
       - icon: linkedin
-        href: www.linkedin.com/in/ismael-rosero-6260aa240
+        href: https://www.linkedin.com/in/ismael-rosero-6260aa240
 
   navbar:
-  background: primary
-  search: true
-  right:
-    - text: "Home"
-      file: index.qmd
-    - text: "My Resume"     # unchanged
-      file: resume.qmd
-    - text: "Projects"
-      menu:
-        - text: "Netflix Data Dashboard (Tableau)"
-          file: projects/netflix.qmd
-        - text: "YouTube Trending (Tableau)"
-          file: projects/youtube.qmd
-        - text: "Orphanage Donations Consulting (R)"
-          href: Consulting.html
-        - text: "Crypto Markets Email Bot (Excel VBA, download)"
-          href: files/Crypto_Model_Ismael_Rosero.xlsm
-        - text: "Bond Pricing & Yield Curve (Excel VBA, download)"
-          href: files/Bond_Model_Ismael_Rosero.xlsm
-  
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
-  # comment out any of the sections below to turn off the sidebar
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "My Resume"
+        file: resume.qmd
+      - text: "Projects"
+        menu:
+          - text: "Netflix Data Dashboard (Tableau)"
+            file: projects/netflix.qmd
+          - text: "YouTube Trending (Tableau)"
+            file: projects/youtube.qmd
+          - text: "Orphanage Donations Consulting (R)"
+            href: Consulting.html
+          - text: "Crypto Markets Email Bot (Excel VBA, download)"
+            href: files/Crypto_Model_Ismael_Rosero.xlsm
+          - text: "Bond Pricing & Yield Curve (Excel VBA, download)"
+            href: files/Bond_Model_Ismael_Rosero.xlsm
 
-  
-format:  
+format:
   html:
-    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+    theme:
+      light: flatly
       dark: darkly
-      #light: cosmo
-      #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-
