@@ -140,11 +140,18 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "projects/netflix.html",
-    "href": "projects/netflix.html",
-    "title": "Netflix Data Dashboard (Tableau)",
+    "objectID": "projects/youtube.html",
+    "href": "projects/youtube.html",
+    "title": "YouTube Trending Analysis (Tableau)",
     "section": "",
-    "text": "Netflix Dashboard\n\n\nAn interactive Tableau dashboard exploring Netflix titles by country, rating, genre, and year added.\nSkills used: Tableau, Data Cleaning, Dashboard Design, Data Storytelling\n\n\n\n Back to top"
+    "text": "YouTube Dashboard\n\n\nDashboard analyzing trending YouTube channels — including days trended, max views, and category insights.\nSkills used: Tableau, Exploratory Data Analysis, Visualization\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/sleep_exercise.html",
+    "href": "projects/sleep_exercise.html",
+    "title": "Do Sleep and Exercise Help School Performance?",
+    "section": "",
+    "text": "Sleep Project Overview\n\n\nOverview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\nThe analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.\n\n\nData Overview\n\n\n\nSleep Graph 1\n\n\nThis graph shows how average performance scores vary across different sleep durations.\n\n\n\nResults\n\n\n\nSleep Graph 2\n\n\nStudents who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.\n\n\n\nConclusion\n\n\n\nSleep Conclusion\n\n\nStudents with better sleep habits and regular exercise show improved academic outcomes.\nWhile correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ml.html",
@@ -238,18 +245,25 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "projects/sleep_exercise.html",
-    "href": "projects/sleep_exercise.html",
-    "title": "Do Sleep and Exercise Help School Performance?",
+    "objectID": "projects/consulting.html",
+    "href": "projects/consulting.html",
+    "title": "Orphanage Donations Consulting (R)",
     "section": "",
-    "text": "Sleep Project Overview\n\n\nOverview:\nThis R project analyzes whether students who sleep more or exercise regularly perform better academically.\nThe analysis uses a dataset of 10,000 student records, exploring how sleep duration and exercise frequency relate to academic performance.\n\n\nData Overview\n\n\n\nSleep Graph 1\n\n\nThis graph shows how average performance scores vary across different sleep durations.\n\n\n\nResults\n\n\n\nSleep Graph 2\n\n\nStudents who sleep between 7–9 hours and exercise consistently tend to have higher academic scores.\n\n\n\nConclusion\n\n\n\nSleep Conclusion\n\n\nStudents with better sleep habits and regular exercise show improved academic outcomes.\nWhile correlation doesn’t prove causation, these findings suggest healthy habits contribute to school success.\n\nTools used: R, ggplot2, tidyverse, Quarto\nNote: The full interactive version is available on BYU–Idaho’s Shiny server (login required).\n\n\n\n\n Back to top"
+    "text": "Overview\nThis consulting analysis helped a non-profit orphanage better understand donation behavior and improve campaign performance.\nUsing R and ggplot2, the analysis visualized donor trends, identified patterns in donation frequency, and recommended specific strategies to increase recurring donations.\nKey Insights - 60% of donations came from repeat donors. - Education and food campaigns received the highest contributions. - Recommendations helped optimize outreach timing for better engagement.\nSkills used: R, ggplot2, dplyr, Data Storytelling, Consulting Analytics\n📂 Download Report: View HTML Report\n\n\n\n Back to top"
   },
   {
-    "objectID": "projects/youtube.html",
-    "href": "projects/youtube.html",
-    "title": "YouTube Trending Analysis (Tableau)",
+    "objectID": "projects/netflix.html",
+    "href": "projects/netflix.html",
+    "title": "Netflix Data Dashboard (Tableau)",
     "section": "",
-    "text": "YouTube Dashboard\n\n\nDashboard analyzing trending YouTube channels — including days trended, max views, and category insights.\nSkills used: Tableau, Exploratory Data Analysis, Visualization\n\n\n\n Back to top"
+    "text": "Netflix Dashboard\n\n\nAn interactive Tableau dashboard exploring Netflix titles by country, rating, genre, and year added.\nSkills used: Tableau, Data Cleaning, Dashboard Design, Data Storytelling\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/crypto_bot.html",
+    "href": "projects/crypto_bot.html",
+    "title": "Crypto Markets Email Bot (Excel VBA)",
+    "section": "",
+    "text": "Crypto Table\n\n\nOverview\nThis Excel VBA automation retrieves live cryptocurrency market data, analyzes returns, and sends email alerts when price thresholds are met.\nIt’s designed to help investors monitor multiple coins in real time — directly from Excel.\nFeatures - Pulls BTC, ETH, DOGE, DOT, and BNB prices. - Calculates performance over multiple time frames (1h, 24h, 7d, etc.). - Sends auto-generated reports via Outlook or Gmail. - Includes dynamic charts for quick visual tracking.\nDashboard Preview\n \nSkills used: Excel VBA, Automation, APIs, Email Integration, Data Visualization\n📂 Download Excel File: Crypto_Model_Ismael_Rosero.xlsm\n\n\n\n Back to top"
   },
   {
     "objectID": "Machine_Learning/project2.html",
