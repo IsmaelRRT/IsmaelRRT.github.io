@@ -1,0 +1,17 @@
+---
+title: "Orphanage Donations Consulting (R)"
+toc: false
+---
+
+**Overview**  
+This consulting analysis helped a non-profit orphanage better understand donation behavior and improve campaign performance.  
+Using R and ggplot2, the analysis visualized donor trends, identified patterns in donation frequency, and recommended specific strategies to increase recurring donations.
+
+**Key Insights**
+- 60% of donations came from repeat donors.
+- Education and food campaigns received the highest contributions.
+- Recommendations helped optimize outreach timing for better engagement.
+
+**Skills used:** R, ggplot2, dplyr, Data Storytelling, Consulting Analytics
+
+📂 **Download Report:** [View HTML Report](../files/Consulting.html)
