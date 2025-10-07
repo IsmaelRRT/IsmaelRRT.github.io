@@ -6,10 +6,13 @@ toc: false
 **Overview**
 
 A fully-automated Excel/VBA tool that:
-- pulls market data from the web on a schedule,
-- computes returns & quick summary stats,
-- refreshes visuals,
-- and emails a PDF report to stakeholders.
+- Pulls market data from the web on a schedule  
+- Computes returns & quick summary stats  
+- Refreshes visuals  
+- Emails a PDF report to stakeholders  
+
+### Snapshot Table
+![Snapshot Table](../Images/crypto_table.png){width=100%}
 
 ### Returns
 ![Crypto Returns](../Images/crypto_chart.png){width=100%}
@@ -17,7 +20,4 @@ A fully-automated Excel/VBA tool that:
 ### Ranked / Heat-Map Summary
 ![Ranked Summary](../Images/crypto_summary.png){width=100%}
 
-### Snapshot Table
-![Snapshot Table](../Images/crypto_table.png){width=100%}
-
-**Skills & tools:** Excel, VBA (automation, email), data wrangling, charting, report generation
+**Skills & Tools:** Excel, VBA (automation & email), data wrangling, charting, and report generation
