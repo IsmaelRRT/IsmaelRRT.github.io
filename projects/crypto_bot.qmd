@@ -1,0 +1,25 @@
+---
+title: "Crypto Markets Email Bot (Excel VBA)"
+toc: false
+---
+
+![Crypto Table](../Images/crypto_table.png){width=100%}
+
+**Overview**  
+This Excel VBA automation retrieves live cryptocurrency market data, analyzes returns, and sends email alerts when price thresholds are met.  
+It’s designed to help investors monitor multiple coins in real time — directly from Excel.
+
+**Features**
+- Pulls BTC, ETH, DOGE, DOT, and BNB prices.
+- Calculates performance over multiple time frames (1h, 24h, 7d, etc.).
+- Sends auto-generated reports via Outlook or Gmail.
+- Includes dynamic charts for quick visual tracking.
+
+**Dashboard Preview**
+
+![Crypto Returns Chart](../Images/crypto_chart.png){width=100%}
+![Crypto Summary Table](../Images/crypto_summary.png){width=100%}
+
+**Skills used:** Excel VBA, Automation, APIs, Email Integration, Data Visualization
+
+📂 **Download Excel File:** [Crypto_Model_Ismael_Rosero.xlsm](../files/Crypto_Model_Ismael_Rosero.xlsm)
