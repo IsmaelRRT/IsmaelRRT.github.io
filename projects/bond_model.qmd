@@ -1,0 +1,20 @@
+---
+title: "Bond Pricing & Yield Curve (Excel VBA)"
+toc: false
+---
+
+![Bond Dashboard](../Images/bond_dashboard.png){width=100%}
+
+**Overview**  
+This Excel VBA model calculates bond prices, yields, durations, and convexities while automatically plotting the U.S. Treasury yield curve.  
+It’s designed to assist analysts in monitoring changes in bond portfolios and yield movements.
+
+**Features**
+- Computes yield-to-maturity, price, and duration for custom inputs.
+- Interpolates yields between maturities.
+- Plots dynamic U.S. Treasury yield curves.
+- Supports daily email reports with embedded charts.
+
+**Skills used:** Excel VBA, Financial Modeling, Data Visualization, Yield Curve Analysis
+
+📂 **Download Excel File:** [Bond_Model_Ismael_Rosero.xlsm](../files/Bond_Model_Ismael_Rosero.xlsm)
