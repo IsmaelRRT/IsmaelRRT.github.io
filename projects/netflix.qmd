@@ -1,0 +1,10 @@
+---
+title: "Netflix Data Dashboard (Tableau)"
+toc: false
+---
+
+![Netflix Dashboard](../Images/netflix_dashboard.png)
+
+An interactive Tableau dashboard exploring Netflix titles by **country**, **rating**, **genre**, and **year added**.
+
+**Skills used:** Tableau, Data Cleaning, Dashboard Design, Data Storytelling
