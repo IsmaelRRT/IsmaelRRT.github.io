@@ -1,59 +1,57 @@
 ---
 layout: cv
-title: Ismael Rosero's CV
+title: Ismael Rosero’s CV
 ---
 
-# Ismael Rosero  
-(208) 973-1293 | [isma.rosero1@gmail.com](mailto:isma.rosero1@gmail.com) | [linkedin.com/in/ismael-rosero-6260aa240](https://www.linkedin.com/in/ismael-rosero-6260aa240)
+# Ismael Rosero
+(208) 973–1293 | [isma.rosero1@gmail.com](mailto:isma.rosero1@gmail.com) | [linkedin.com/in/ismael-rosero-6260aa240](https://www.linkedin.com/in/ismael-rosero-6260aa240)
 
 ---
 
 ## Education
 
-`January 2022 – Present`  
-**Brigham Young University – Idaho**, Rexburg, ID  
-*Bachelor of Science in Business Finance*  
+**Brigham Young University–Idaho**, Rexburg, ID  
+**Bachelor of Science in Business Finance**  
 - Minor: Business Analytics  
-- **Expected Graduation:** Winter 2026  
+- Expected Graduation: April 2026  
 - Relevant Coursework: Advanced Financial Management, Investments, Business Analytics, Financial Modeling, Data Science Programming, SQL, Statistics
 
 ---
 
 ## Skills
 
-**Data Tools & Analysis:** Power BI (DAX, KPI tracking, dashboards), Tableau (visualizations), Excel (XLOOKUP, PivotTables, charts, financial modeling)  
-**Programming & Automation:** Python (pandas, NumPy, matplotlib), R (ggplot2, dplyr), SQL (joins, subqueries), VBA (automation)  
-**Statistical & Analytical:** Regression analysis, hypothesis testing, data wrangling, forecasting, API integration  
-**Languages:** Spanish (Native), English (Fluent)
+**Tools:** Excel (advanced), VBA (automation), SQL, R, Python, Power BI, Tableau, Git/GitHub  
+**Analytics:** Data cleaning and wrangling, descriptive analysis, data visualization, dashboard/report building  
+**Languages:** Spanish (native), English (fluent)
 
 ---
 
 ## Experience
 
-`2023 – Present`  
+### 2021 – 2022  
 **Shipping Scheduler**, Done Right Installation Group LLC – Salt Lake City, Utah  
-- Maintained accurate inventory and project data by cross-referencing work documents, achieving 100% data reliability  
-- Updated and maintained reporting spreadsheets in Excel/Google Sheets, improving clarity and accessibility for the team  
-- Coordinated technician schedules, optimizing routes and reducing delays  
-- Managed customer communications via email/phone, ensuring accurate scope of work and improved client satisfaction
+- Coordinated technician schedules to support accurate and timely delivery of services.  
+- Reviewed and cross-checked work documentation to ensure correct scope of work and prevent errors.  
+- Maintained spreadsheets and tracked project information for planning and follow-up.  
+- Communicated with technicians and customers to clarify requirements and provide timely updates.
 
-`2021 – 2022`  
+### 2017 – 2019  
 **Ad Administration**, Web Net Soluciones – Cuenca, Ecuador  
-- Ensured accurate and timely payment for services provided by maintaining detailed records and following up on outstanding invoices  
-- Administered customer web pages and managed payment processing, ensuring smooth and efficient operations  
-- Created effective publicity banners for customers, improving online presence and engagement
+- Managed customer payment records and followed up on outstanding balances.  
+- Updated client web pages and assisted with basic digital administration tasks.  
+- Designed simple marketing banners and coordinated client communications.
 
 ---
 
 ## Volunteer Experience
 
-`2018 – 2019`  
+### 2018  
 **Part-Time Volunteer**, Orphanage Support Services Organization – Cuenca, Ecuador  
-- Monitored and analyzed weekly expenditures for multiple orphanages, ensuring accurate budget tracking and identifying areas for cost savings  
-- Organized schedules and coordinated activities for volunteers, improving operational efficiency  
+- Supported caregivers with daily tasks and helped provide a safe, positive environment for children.
 
-`2019 – 2021`  
+### 2019 – 2021  
 **Full-Time Volunteer**, The Church of Jesus Christ of Latter-day Saints – Kampala, Uganda  
-- Supervised and trained 220 volunteers across multiple regions, coordinating schedules and reporting systems  
-- Conducted leadership training meetings and workshops, strengthening organizational effectiveness  
-- Adapted to a new cultural environment, developing communication and problem-solving skills
+- Mentored and trained volunteers, improving team performance and communication.  
+- Assisted mission leadership with planning, goal setting, and coordinating activities across multiple areas.
+
+---
